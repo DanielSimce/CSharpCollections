@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\CollectionsCSharp\CollectionsCSharp\bin\Debug\CollectionsCSharp.exe.config
+C:\Users\Daniel\source\repos\CollectionsCSharp\CollectionsCSharp\bin\Debug\CollectionsCSharp.exe
+C:\Users\Daniel\source\repos\CollectionsCSharp\CollectionsCSharp\bin\Debug\CollectionsCSharp.pdb
+C:\Users\Daniel\source\repos\CollectionsCSharp\CollectionsCSharp\obj\Debug\CollectionsCSharp.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\CollectionsCSharp\CollectionsCSharp\obj\Debug\CollectionsCSharp.exe
+C:\Users\Daniel\source\repos\CollectionsCSharp\CollectionsCSharp\obj\Debug\CollectionsCSharp.pdb
